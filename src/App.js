@@ -16,9 +16,9 @@ function App() {
         <button>Action</button>
         </Greet>
       <Greet name = "Diana" heroName = "Wonder woman" />
-      {/* <Welcome name = "Bruce" heroName = "Batman"/>
+      <Welcome name = "Bruce" heroName = "Batman"/>
       <Welcome name = "Clark" heroName = "Superman"/>
-      <Welcome name = "Diana" heroName = "Wonder woman"/> */}
+      <Welcome name = "Diana" heroName = "Wonder woman"/>
       {/* <Message></Message> */}
     </div>
   );
