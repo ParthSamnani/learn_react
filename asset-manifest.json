@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ParthSamnani/learn_react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ParthSamnani/learn_react/static/js/main.f153c9e5.chunk.js",
+    "main.js.map": "/ParthSamnani/learn_react/static/js/main.f153c9e5.chunk.js.map",
+    "runtime-main.js": "/ParthSamnani/learn_react/static/js/runtime-main.6105eaf9.js",
+    "runtime-main.js.map": "/ParthSamnani/learn_react/static/js/runtime-main.6105eaf9.js.map",
+    "static/js/2.68c8ac0e.chunk.js": "/ParthSamnani/learn_react/static/js/2.68c8ac0e.chunk.js",
+    "static/js/2.68c8ac0e.chunk.js.map": "/ParthSamnani/learn_react/static/js/2.68c8ac0e.chunk.js.map",
+    "index.html": "/ParthSamnani/learn_react/index.html",
+    "precache-manifest.4e22a299f15a76a4ecef90c8b74d93eb.js": "/ParthSamnani/learn_react/precache-manifest.4e22a299f15a76a4ecef90c8b74d93eb.js",
+    "service-worker.js": "/ParthSamnani/learn_react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ParthSamnani/learn_react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.68c8ac0e.chunk.js.LICENSE.txt": "/ParthSamnani/learn_react/static/js/2.68c8ac0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6105eaf9.js",
+    "static/js/2.68c8ac0e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f153c9e5.chunk.js"
+  ]
+}
